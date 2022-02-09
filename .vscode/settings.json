@@ -2,5 +2,10 @@
   "prettier.useTabs": true,
   "editor.tabSize": 2,
   "html.format.wrapLineLength": 80,
-  "editor.wordWrap": "on"
+  "editor.wordWrap": "on",
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#521D09",
+    "titleBar.activeBackground": "#73290C",
+    "titleBar.activeForeground": "#FEFBF9"
+  }
 }
